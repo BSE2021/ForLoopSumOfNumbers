@@ -1,0 +1,2 @@
+C:\Users\092834\OneDrive - UP Education\Desktop\CPP\ForLoopSumOFNumbers\Debug\ForLoopSumOFNumbers.exe
+C:\Users\092834\OneDrive - UP Education\Desktop\CPP\ForLoopSumOFNumbers\Debug\ForLoopSumOFNumbers.pdb
